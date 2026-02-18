@@ -477,7 +477,7 @@ body.wehealthcare-theme header nav .nav-sections ul > li > a {
 }
 
 body.wehealthcare-theme header .nav-wrapper {
-    background-color: var(--brand-dark-color);
+    background-color: var(--dark-color);
 }
 
 body.wehealthcare-theme .lang-switcher .lang-button {
