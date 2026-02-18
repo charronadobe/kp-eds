@@ -517,6 +517,7 @@ picture {
 .hero.block.overlay div:nth-child(2),
 .hero.image-background-text-left div:nth-child(2),
 .hero.image-background-text-right div:nth-child(2) {
+    display: grid;
     grid-column-start: 1;
     grid-column-end: span 5;
     grid-row-start: 1;
