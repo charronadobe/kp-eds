@@ -508,13 +508,22 @@ picture {
     border-color: var(--dark-color);
 }
 
-.hero.block.overlay div:nth-child(2),
+/* .hero.block.overlay div:nth-child(2),
 .hero.image-background-text-left div:nth-child(2),
 .hero.image-background-text-right div:nth-child(2) {
     padding: 20px;
     background: rgb(0 0 0 / 50%);
+} */
+.hero.block.overlay div:nth-child(2),
+.hero.image-background-text-left div:nth-child(2),
+.hero.image-background-text-right div:nth-child(2) {
+    grid-column-start: 1;
+    grid-column-end: span 5;
+    grid-row-start: 1;
+    grid-row-end: auto;
+    padding: 20px;
+    background: rgb(0 0 0 / 50%);
 }
-
 /*button theme hero specific*/
 .hero.block.overlay .button-container.cta-link a.button,
 .hero.image-background-text-left .button-container.cta-link a.button,
