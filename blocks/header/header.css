@@ -424,8 +424,8 @@ header .search.search-icon .icon {
     width: 24px;
     height: 24px;
     background-color: var(--nav-text-color);
-    -webkit-mask: url(/icons/search.svg) no-repeat center / contain;
-    mask: url(/icons/search.svg) no-repeat center / contain;
+    -webkit-mask: url(/icons/search-white.svg) no-repeat center / contain;
+    mask: url(/icons/search-white.svg) no-repeat center / contain;
 }
 header .search.search-icon .icon img {
     display: none;
