@@ -473,7 +473,7 @@ header nav .nav-tools .icon-search-light {
 }
 
 body.wehealthcare-theme header nav .nav-sections ul > li > a {
-    color: var(--brand-light-text-color);
+    color: var(--text-light);
 }
 
 body.wehealthcare-theme header .nav-wrapper {
@@ -481,8 +481,8 @@ body.wehealthcare-theme header .nav-wrapper {
 }
 
 body.wehealthcare-theme .lang-switcher .lang-button {
-    color: #000;
-    border: 1px solid rgb(0 0 0 / 40%);
+    color: var(--text-light);
+    border: 1px solid var(--text-light);
 }
 
 /* ensure search and language switcher sit side-by-side inside tools */
