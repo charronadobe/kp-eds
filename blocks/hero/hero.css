@@ -78,7 +78,7 @@
 
 .hero picture {
     display: grid;
-    position: relative;
+    position: absolute;
     grid-column-start: 4;
     grid-column-end: span 9;
     grid-row-start: 1;
