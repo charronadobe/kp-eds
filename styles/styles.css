@@ -837,7 +837,7 @@ main .section.bg-image > .default-content-wrapper {
 
 .adobe-ue-edit header,
 .adobe-ue-preview header {
-    background: var(--brand-link-color);
+    background: var(--link-color);
 }
 
 /* Section background image (data-image) */
