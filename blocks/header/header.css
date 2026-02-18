@@ -423,7 +423,7 @@ header nav .nav-tools {
 header .search.search-icon .icon {
     width: 24px;
     height: 24px;
-    background-color: var(--nav-text-color);
+    background-color: var(--text-light);
     -webkit-mask: url(/icons/search.svg) no-repeat center / contain;
     mask: url(/icons/search.svg) no-repeat center / contain;
 }
