@@ -68,8 +68,16 @@
 /* --------------------------
    Hero Background Image
 --------------------------- */
-.hero picture {
+/* .hero picture {
     position: absolute;
+    z-index: -1;
+    inset: 0;
+    box-sizing: border-box;
+} */
+.hero picture {
+    position: relative;
+    grid-column-start: 4;
+    grid-column-end: span 9;
     z-index: -1;
     inset: 0;
     box-sizing: border-box;
