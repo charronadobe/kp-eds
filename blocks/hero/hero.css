@@ -75,6 +75,7 @@
     inset: 0;
     box-sizing: border-box;
 } */
+
 .hero picture {
     position: relative;
     display: grid;
