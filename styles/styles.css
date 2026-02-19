@@ -959,7 +959,7 @@ table {
     color: var(--link-color) !important;
     text-decoration: none;
     border: 1px solid var(--main-accent-color) !important;
-    border-radius: 55px;
+    border-radius: 50px;
     font-family: var(--heading-font-family);
     font-weight: 600;
     font-size: 18px;
