@@ -295,9 +295,9 @@ picture {
 .hero.image-right h6,
 .hero.image-right p {
     text-align: left;
-    margin-top: 20px;
     width: 100%;
     max-width: none;
+    margin-top: 20px;
     color: var(--text-color);
     text-shadow: unset;
 }
