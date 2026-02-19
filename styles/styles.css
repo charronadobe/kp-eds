@@ -512,7 +512,7 @@ button {
     text-decoration: none;
 }
 a::after,
-a.button::after {
+/* a.button::after {
     font-family: "Font Awesome 5 Solid";
     content: "\f105";
     color: var(--link-color);
@@ -527,7 +527,7 @@ a.button::after {
     border-radius: 0;
     padding: 1px 10px;
     cursor: pointer;
-}
+} */
 a:hover,
 a:focus,
 a.button:hover,
@@ -971,14 +971,14 @@ table {
     position: relative;
 }
 
-.cta-button a.button::after {
+/* .cta-button a.button::after {
     content: "\f105";
     font-family: "Font Awesome 5 Solid";
     color: var(--text-light) !important;
     font-size: 20px;
     margin-left: 8px;
     transition: all 0.3s ease;
-}
+} */
 
 .cta-button a.button:hover {
     background-color: transparent !important;
