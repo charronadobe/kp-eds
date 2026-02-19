@@ -525,8 +525,8 @@ picture {
     grid-row-start: 1;
     grid-row-end: auto;
     padding: 20px;
-    background: var(--light-color);
-    border: 1px solid #000000;
+    background: var(--background-color);
+    border: 1px solid var(--link-color);
 }
 /*button theme hero specific*/
 .hero.block.overlay .button-container.cta-link a.button,
