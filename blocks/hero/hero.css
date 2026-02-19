@@ -267,9 +267,9 @@
     border: 1px solid var(--link-color);
 }
 
-.hero.image-right > div:nth-child(2) {
+/* .hero.image-right > div:nth-child(2) {
     padding-left: 80px;
-}
+} */
 
 picture {
     line-height: 0;
