@@ -518,11 +518,11 @@ picture {
 .hero.block.overlay div:nth-child(2),
 .hero.image-background-text-left div:nth-child(2),
 .hero.image-background-text-right div:nth-child(2) {
+    z-index: 2;
     grid-column-start: 1;
     grid-column-end: span 5;
     grid-row-start: 1;
     grid-row-end: auto;
-    z-index: 2;
     padding: 20px;
     background: var(--light-color);
     border: 1px solid #000000;
