@@ -25,13 +25,14 @@
     /* colors */
     --background-color: var(--brand-background-color, #ffffff);
     --dark-color: var(--brand-dark-color, #0b1c3e);
-    --light-color: var(--brand-light-color, #dcdcdc);
+    --light-color: var(--brand-light-color, #f7f7f7);
     --text-color: var(--brand-text-color, #0b1c3e);
     --text-light: var(--brand-light-text-color, #ffffff);
     --text-disabled: rgb(113, 113, 113);
     --link-color: var(--brand-link-color, #003b72);
     --link-hover-color: var(--brand-link-hover-color, #f97316);
     --main-accent-color: var(--brand-theme-color, #fb923c);
+    --light-accent-color: #f2f8fb;
 
     --dark-color-opacity: rgba(0, 0, 0, 0.55);
     --light-color-opacity: rgba(255, 255, 255, 0.5);
