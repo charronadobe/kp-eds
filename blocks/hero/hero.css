@@ -173,7 +173,7 @@
 .hero.image-bottom {
     gap: 40px;
     padding: 0;
-    min-height: auto;
+    /* min-height: auto; */
 }
 
 .hero.image-left {
