@@ -18,14 +18,14 @@
     position: relative;
 }
 
-/* .default-button a.button::after {
+.default-button a.button::after {
     content: "\f105";
     font-family: "Font Awesome 5 Solid";
     color: var(--text-light);
     font-size: 20px;
     margin-left: 8px;
     transition: all 0.3s ease;
-} */
+}
 
 .default-button a.button:hover {
     background-color: transparent;
