@@ -83,7 +83,6 @@
     grid-column-end: span 9;
     grid-row-start: 1;
     grid-row-end: auto;
-    z-index: -1;
     inset: 0;
     box-sizing: border-box;
 }
