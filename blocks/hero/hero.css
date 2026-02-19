@@ -223,7 +223,7 @@
 .hero.image-right picture,
 .hero.image-top picture,
 .hero.image-bottom picture {
-    position: relative;
+    /* position: relative; */
     z-index: 1;
 }
 
