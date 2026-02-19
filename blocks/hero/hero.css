@@ -46,7 +46,7 @@
 
 /* Special underline (only for h1 by default) */
 .hero h1::after {
-    background-color: var(--light-accent-color);
+    background-color: var(--main-accent-color);
     content: "";
     display: block;
     height: 5px;
